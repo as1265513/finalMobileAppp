@@ -1,0 +1,14 @@
+com/finalmobileapp/BuildConfig.java
+ com.finalmobileapp.BuildConfig
+com/finalmobileapp/MainApplication.java
+ com.finalmobileapp.MainApplication
+ com.finalmobileapp.MainApplication$1
+com/finalmobileapp/MainActivity.java
+ com.finalmobileapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/finalmobileapp/ReactNativeFlipper.java
+ com.finalmobileapp.ReactNativeFlipper
+ com.finalmobileapp.ReactNativeFlipper$1
+ com.finalmobileapp.ReactNativeFlipper$2
+ com.finalmobileapp.ReactNativeFlipper$2$1
